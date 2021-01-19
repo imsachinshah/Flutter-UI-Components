@@ -28,17 +28,21 @@ It is form of banner which we can used a to show some info to a customer as a di
 
 Stepper are used for selecting the quantity of the product. It commonly used in e-commerce sites or food delivery apps.
 
+<p align = "center">
+<a href = "https://github.com/imsachinshah/Flutter-UI-Components/blob/master/lib/packages/Home.dart">
+<img src="ScreenShots/home.png" width="25%" alt="home" >
+</p>
+
 <p align="left">
-<a>
-<img src="ScreenShots/home.png" width="20%" alt="home" >
-<a>
-<img src="ScreenShots/carousel.png" width="20%" alt="Carousels" >
-<a >
-<img src="ScreenShots/contextmenu.png" width="20%" alt="Context Menu" >
-<a>
-<img src= "ScreenShots/banner.png" width="20%" alt="Material Banner" >
-<a>
-<img src= "ScreenShots/stepper.png" width="20%" alt="Stepper" >
+
+<a href = "https://github.com/imsachinshah/Flutter-UI-Components/blob/master/lib/packages/Carousel.dart">
+<img src="ScreenShots/carousel.png" width="24%" alt="Carousels" >
+<a href = "https://github.com/imsachinshah/Flutter-UI-Components/blob/master/lib/packages/ContextMenu.dart">
+<img src="ScreenShots/contextmenu.png" width="24%" alt="Context Menu" >
+<a href = "https://github.com/imsachinshah/Flutter-UI-Components/blob/master/lib/packages/MaterialBanner.dart">
+<img src= "ScreenShots/banner.png" width="24%" alt="Material Banner" >
+<a href= "https://github.com/imsachinshah/Flutter-UI-Components/blob/master/lib/packages/Stepper.dart">
+<img src= "ScreenShots/stepper.png" width="24%" alt="Stepper" >
 </a>
 </p>
 
